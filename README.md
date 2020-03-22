@@ -1,4 +1,34 @@
-# beginvue
-begin vue webpack configure from empty dictionary base webpack4 babel8 vue-loader15+
+# 项目说明
 
-all code run ok in mac pro
+### 目录说明
+``` 
+.
+├── README.md
+├── app.vue
+├── components
+│   ├── rout.vue
+│   ├── routercomp.vue
+│   └── routercomp2.vue
+├── entry.js
+├── index.html
+├── index.js
+├── package-lock.json
+├── package.json
+├── route
+│   └── route.js
+├── static
+│   ├── img
+│   │   └── next.png
+│   ├── js
+│   │   ├── vendor-manifest.json
+│   │   └── vendor.dll.js
+│   └── lib
+│       └── dict.js
+├── store
+│   └── store.js
+├── tree.text
+└── webpack.dll.js
+
+
+
+```
